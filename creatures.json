@@ -18,7 +18,8 @@
 			"ko":"알로사우르스",
 			"pt-br":"Alossauro",
 			"ru":"Аллозавр",
-			"zh":"异特龙"
+			"zh":"异特龙", 
+			"pl":"Allozaur" 
 		}
 	},
 	"ammonite":{
@@ -30,7 +31,8 @@
 			"ko":"암모나이트",
 			"ru":"Аммонит",
 			"pt-br":"Amonóide",
-			"zh":"菊石"
+			"zh":"菊石", 
+			"pl":"Amonit" 
 		}
 	},
 	"angler":{
@@ -185,7 +187,8 @@
 			"ko":"브론토사우르스",
 			"pt-br":"Brontossauro",
 			"ru":"Бронтозавр",
-			"zh":"雷龙"
+			"zh":"雷龙", 
+			"pl":"Brontozaur" 
 		}
 	},
 	"broodmotherlysrix":{
@@ -283,7 +286,8 @@
 			"ja":"コンプソグナトゥス",
 			"ko":"콤피",
 			"ru":"Компсогнат",
-			"zh":"美颌龙"
+			"zh":"美颌龙", 
+			"pl":"kompia" 
 		}
 	},
 	"crystalwyvern":{
@@ -411,7 +415,8 @@
 			"ko":"디플로도쿠스",
 			"pt-br":"Diplodoco",
 			"ru":"Диплодок",
-			"zh":"梁龙"
+			"zh":"梁龙", 
+			"pl":"Diplodok" 
 		}
 	},
 	"direbear":{
@@ -471,7 +476,8 @@
 			"ko":"드래곤",
 			"pt-br":"Dragão",
 			"ru":"Дракон",
-			"zh":"喷火龙"
+			"zh":"喷火龙", 
+			"pl":"Smok" 
 		}
 	},
 	"dungbeetle":{
@@ -484,7 +490,8 @@
 			"ko":"쇠똥구리",
 			"pt-br":"Rola-Bosta",
 			"ru":"Скарабей",
-			"zh":"蜣螂"
+			"zh":"蜣螂", 
+			"pl":"Żuk gnojarz" 
 		}
 	},
 	"dunkleosteus":{
@@ -507,7 +514,8 @@
 			"ko":"전기뱀장어",
 			"pt-br":"Poraquê",
 			"ru":"Электрофорус",
-			"zh":"电鳗"
+			"zh":"电鳗", 
+			"pl":"Węgorz elektryczy" 
 		}
 	},
 	"enforcer":{
@@ -527,7 +535,8 @@
 			"ko":"에쿠스",
 			"pt-br":"Equus",
 			"ru":"Эквус",
-			"zh":"庞马"
+			"zh":"庞马", 
+			"pl":"Koń"
 		}
 	},
 	"eurypterid":{
@@ -650,7 +659,8 @@
 			"ja":"グロウバグ",
 			"ko":"빛벌래",
 			"ru":"Светлячок",
-			"zh":"发光虫"
+			"zh":"发光虫", 
+			"pl":"Świetlik" 
 		}
 	},
 	"glowtail":{
@@ -673,7 +683,8 @@
 			"ko":"그리핀",
 			"pt-br":"Grifo",
 			"ru":"Грифон",
-			"zh":"狮鹫"
+			"zh":"狮鹫", 
+			"pl":"Gryf" 
 		}
 	},
 	"hesperornis":{
@@ -834,7 +845,8 @@
 			"pt-br":"Sanguessuga",
 			"ru":"Пиявки",
 			"ja":"ヒル",
-			"zh":"水蛭"
+			"zh":"水蛭", 
+			"pl":"Pijawka" 
 		}
 	},
 	"leedsichthys":{
@@ -897,7 +909,8 @@
 			"ko":"맘모스",
 			"pt-br":"Mamute",
 			"ru":"Мамонт",
-			"zh":"猛犸象"
+			"zh":"猛犸象", 
+			"pl":"Mamut" 
 		}
 	},
 	"managarmr":{
@@ -1105,7 +1118,8 @@
 			"ja":"ネームレス",
 			"ko":"네임리스",
 			"ru":"Безымянный",
-			"zh":"无名怪"
+			"zh":"无名怪", 
+			"pl":"Bezimienny" 
 		}
 	},
 	"onyc":{
@@ -1128,7 +1142,8 @@
 			"ko":"수달아과",
 			"pt-br":"Lontra",
 			"ru":"Выдра",
-			"zh":"水獭"
+			"zh":"水獭", 
+			"pl":"Wydra" 
 		}
 	},
 	"overseer":{
@@ -1436,7 +1451,8 @@
 			"ko":"검치호",
 			"pt-br":"Dentes-de-Sabre",
 			"ru":"Саблезуб",
-			"zh":"剑齿虎"
+			"zh":"剑齿虎", 
+			"pl":"Tygrys szablozębny" 
 		}
 	},
 	"sabertoothsalmon":{
@@ -1448,7 +1464,8 @@
 			"ja":"セイバートゥース・サーモン",
 			"ru":"Саблезубый лосось",
 			"pt-br":"Salmão Dentes-de-Sabre",
-			"zh":"剑齿鲑鱼"
+			"zh":"剑齿鲑鱼", 
+			"pl":"Łosoś szablozębny" 
 		}
 	},
 	"sarco":{
